@@ -1,0 +1,36 @@
+_repo: Un-matrimonio-eccentrico-b-romanzo_75916
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gualdo, Luigi
+    aliases:
+    - Gualdo, Luigi, conte
+    - Bolis, Luigi Gualdo
+    birthdate: 1844
+    deathdate: 1898
+    gutenberg_agent_id: '8664'
+    url: http://www.gutenberg.org/2009/agents/8664
+    wikipedia: https://it.wikipedia.org/wiki/Luigi_Gualdo
+description: ''
+gutenberg_issued: '2025-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75916'
+language: it
+pgterms:marc904: http://www.braidense.it/dire/matrimonioeccentrico.pdf
+pgterms:marc905: 20240811024544gualdo
+pgterms:marc906: '1894'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biblioteca Nazionale
+  Braidense - Milano)
+publication_note: '  $aMilano :$bTreves, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Un matrimonio eccentrico : $b romanzo'
+url: http://www.gutenberg.org/ebooks/75916
